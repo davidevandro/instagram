@@ -40,7 +40,7 @@ $ git clone https://github.com/davidevandro/instagram instagram
 
 ## License
 
-This project is under license [MIT](https://github.com/davidevandro/gameplay/blob/main/LICENSE).
+This project is under license [MIT](https://github.com/davidevandro/instagram/blob/master/LICENSE).
 
 <div align="center">
 
