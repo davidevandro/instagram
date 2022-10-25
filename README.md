@@ -37,7 +37,7 @@ $ git clone https://github.com/davidevandro/instagram instagram
 
 ## Acknowledgements
 
-This project was developed during a course from Digital Innovation One [https://www.dio.me/].
+This project was developed during a course from [Digital Innovation One](https://www.dio.me/).
 
 ## License
 
